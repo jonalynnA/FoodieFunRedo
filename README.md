@@ -1,2 +1,3 @@
-# FoodieFunRedo
-BW 3 
+# FoodTracker
+
+App to track, remember, and rank the meals I eat :)
